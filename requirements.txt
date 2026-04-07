@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+datasets
+matplotlib
+seaborn
+jupyter
+shap
+fairlearn
+scikit-learn
+ipykernel
