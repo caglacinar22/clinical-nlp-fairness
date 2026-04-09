@@ -34,6 +34,7 @@ MTSamples — 5,000 real medical transcriptions across 40+ specialties
 - scikit-learn
 
 ## Project Structure
+```
 ├── data/
 │   ├── raw/               # original mtsamples.csv
 │   └── processed/         # cleaned, split data
@@ -49,7 +50,8 @@ MTSamples — 5,000 real medical transcriptions across 40+ specialties
 │   ├── fairness.py
 │   └── train.py
 └── results/
-└── figures/
+    └── figures/
+```
 
 ## Author
 Cagla CINAR — BSc Computer Engineering, Politecnico di Torino
