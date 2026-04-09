@@ -21,8 +21,12 @@ selection process.
 ## Key Results
 | Metric | Standard AL | Equitable AL |
 |--------|-------------|--------------|
-| Overall Accuracy | see results/ | see results/ |
-| Variance across specialties | see results/ | see results/ |
+| Overall Accuracy | 0.220 | 0.140 |
+| Variance across specialties | 0.090 | 0.054 |
+
+> Equitable AL reduced variance across specialties by 40%, meaning fairer
+> performance distribution — with a trade-off in overall accuracy due to
+> the equity constraint forcing coverage of underrepresented specialties.
 
 ## Dataset
 MTSamples — 5,000 real medical transcriptions across 40+ specialties
